@@ -1,0 +1,17 @@
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.AssemblyInfoInputs.cache
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.AssemblyInfo.cs
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.RazorAssemblyInfo.cache
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.RazorAssemblyInfo.cs
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\OrderProcessingApp.deps.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\OrderProcessingApp.runtimeconfig.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\OrderProcessingApp.runtimeconfig.dev.json
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\OrderProcessingApp.dll
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp2.2\OrderProcessingApp.pdb
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.RazorTargetAssemblyInfo.cache
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.dll
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.pdb
+C:\Users\sagarm\source\repos\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp2.2\OrderProcessingApp.genruntimeconfig.cache
